@@ -1,12 +1,6 @@
-\-\--
-title: "Overview"
-editor: visual
-\-\--
-
 ## Introduction
 
-In this project we are given two major themes and sub-theme. Detail description of this project is available on this [page](https://hujingmin2021-gisproject.netlify.app/). Land cover classification
-is a commonly application area of digital image analysis.
+In this project we are given two major themes and sub-theme. Detail description of this project is available on this [page](https://hujingmin2021-gisproject.netlify.app/). Land cover classification is a commonly application area of digital image analysis.
 
 Litreture review
 
