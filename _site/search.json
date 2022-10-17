@@ -4,7 +4,7 @@
     "href": "overview.html",
     "title": "GISProject",
     "section": "",
-    "text": "title: “Overview” editor: visual --- Introduction\nIn this project we are given two major themes and sub-theme. Detail description of this project is available on this page. Land cover classification is a commonly application area of digital image analysis.\nLitreture review\nIn this project, the following articles will be reviewed.\nObjectives\nThe objectives of this project are as follows:\nTasks/ work in progress\nThe project tasks are as follow:\n\nobjective 1.\nobjective 2."
+    "text": "--- title: “Overview” editor: visual ---"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,19 @@
     "title": "GIS Project",
     "section": "",
     "text": "<add group photo>"
+  },
+  {
+    "objectID": "overview.html#introduction",
+    "href": "overview.html#introduction",
+    "title": "GISProject",
+    "section": "Introduction",
+    "text": "Introduction\nIn this project we are given two major themes and sub-theme. Detail description of this project is available on this page. Land cover classification is a commonly application area of digital image analysis.\nLitreture review\nIn this project, the following articles will be reviewed."
+  },
+  {
+    "objectID": "overview.html#objectives",
+    "href": "overview.html#objectives",
+    "title": "GISProject",
+    "section": "Objectives",
+    "text": "Objectives\nThe objectives of this project are as follows:\nTasks/ work in progress\nThe project tasks are as follow:\n\nobjective 1.\nobjective 2."
   }
 ]
